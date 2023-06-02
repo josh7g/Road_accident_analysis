@@ -20,7 +20,7 @@ Based on the insights gained from the analysis, several recommendations for impr
 Conclusion:
 The road accident analysis project utilizing Power BI has provided valuable insights into the factors influencing accidents and highlighted opportunities for enhancing road safety. By sharing these findings and recommendations, I hope to contribute to the ongoing efforts of policymakers, transportation authorities, and road safety organizations in making informed decisions and implementing effective measures.
 
-By sharing this overview online, you can provide a concise and informative summary of your road accident analysis project, highlighting the key findings, insights, and recommendations.
+
 
 
 
